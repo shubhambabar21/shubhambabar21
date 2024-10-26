@@ -6,7 +6,7 @@
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/shubham-babar-354668242/)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/shubham_babar21/)
 
-#### Reach me: shubhambabar212003@gmail.comn || +91 8511017210
+#### Reach me: shubhambabar212003@gmail.com || +91 8511017210
   
 ![](https://komarev.com/ghpvc/?username=shubhambabar21)
 ## About Shubham
