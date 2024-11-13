@@ -1,3 +1,4 @@
+![MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif)
 <div style="text-align: center;"> 
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3DF7D9&random=false&width=435&lines=Hi%2C+I+am+Shubham+Babar%F0%9F%91%8B%F0%9F%8F%BD;A+Web+Developer%F0%9F%9A%80;Let's+Connect!" alt="Typing SVG" /></a>
 </div>
