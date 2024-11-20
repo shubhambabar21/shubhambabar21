@@ -48,6 +48,7 @@ Just a guy looking to make my developer workflow more awesome, build performant 
 ## Github Stats
 <p style="display:flex; align=center; justify-content:center; ">
 <img src="https://github-readme-stats.vercel.app/api?username=shubhambabar21&theme=midnight-purple" style="margin-right:4px;"><br>
-<img src="https://streak-stats.demolab.com/?user=shubhambabar211&theme=holi-theme">
+<img src="https://streak-stats.demolab.com/?user=shubhambabar21&theme=holi-theme" alt="GitHub Streak" />
+
 </p>
 														 
