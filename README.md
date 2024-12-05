@@ -51,5 +51,7 @@ Just a guy looking to make my developer workflow more awesome, build performant 
 
 <img src="https://streak-stats.demolab.com/?user=shubhambabar21&theme=holi-theme" alt="GitHub Streak" />
 
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubhambabar21&theme=github_dark" width="100%" />
 </p>
 														 
