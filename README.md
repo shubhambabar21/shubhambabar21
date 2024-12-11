@@ -49,7 +49,7 @@ Just a guy looking to make my developer workflow more awesome, build performant 
 <p style="display:flex; align=center; justify-content:center; ">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhambabar21&show_icons=true&locale=en&layout=compact" alt="shubhambabar21" /></p>
 
-<img src="https://streak-stats.demolab.com/?user=shubhambabar21&theme=holi-theme" alt="GitHub Streak" />
+
 
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubhambabar21&theme=github_dark" width="100%" />
