@@ -10,7 +10,7 @@
 #### Reach me: shubhambabar212003@gmail.com || +91 8511017210
   
 ![](https://komarev.com/ghpvc/?username=shubhambabar21)
-## About Shubham
+## About Shubham Babar
 <p style="font-size:7px;">
 Just a guy looking to make my developer workflow more awesome, build performant projects, understand memory, and ultimately craft really awesome software 
 </p>
